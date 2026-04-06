@@ -13,7 +13,7 @@ Fonte - https://venda-imoveis.caixa.gov.br/sistema/download-lista.asp?fbclid=PAA
 
 Para análise, será utilizado os dados apenas de tipo Terreno, pensando no contexto empresarial na inserção do negócio. Os campos utilizados foram: UF, CIDADE, BAIRRO, ENDEREÇO, PREÇO, FINANCIÁVEL (Sim/Não) e AREA.
 
-Para dados relacionados ao local, utilizarei como base o CENSO 2022 – IBGE, com dados como rendimento médio per cápita, relação de sexos, percentual da população com ensino superior, total da populaçao e o crescimento médio (taxa).
+Para dados relacionados ao local, utilizarei como base o CENSO 2022 – IBGE, com dados como rendimento médio per cápita, relação de sexos, percentual da população com ensino superior, total da populaçao e o crescimento médio (taxa) e idade média da população.
 
 Fonte - https://censo2022.ibge.gov.br/panorama/mapas.html?tema=rend_dom_per_capita&recorte=N3
 (Coleta feita indicador por indicador em tabelas separadas)
